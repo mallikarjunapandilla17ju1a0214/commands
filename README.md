@@ -4,7 +4,7 @@
 - git clone "repolink"
 - git status
 - git add filename
-- git add
+- git add *
 - git config user.name "username"
 - git commit -m "commitmessage"
 - git log
