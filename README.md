@@ -6,6 +6,7 @@
 - git add filename
 - git add *
 - git config user.name "username"
+- git config user.email "email"
 - git commit -m "commitmessage"
 - git log
 - git log --online
